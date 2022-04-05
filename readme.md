@@ -1,4 +1,6 @@
 # CSCI 5607 Raytracer
+![](/oldInputs/demo.png)
+
 The code for HW1 (parts a-d) of CSCI 5607 in Spring 2022.
 
 ## Important Notes
